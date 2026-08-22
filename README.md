@@ -8,6 +8,10 @@ Extracted from two shipped iOS apps — [KIIP RU](#) and [TOPIK Daily](#) — wh
 these rules were the difference between an app that feels smart and one that
 feels broken.
 
+Built by [Sergei Atanov](https://www.linkedin.com/in/sergei-atanov-96b966428/).
+Available for SwiftUI iOS work, App Store troubleshooting and TestFlight support:
+[Fiverr gig](http://www.fiverr.com/s/8xd4QbV).
+
 ```swift
 .package(url: "https://github.com/aihanhook-ops/DrillKit", from: "1.0.0")
 ```
